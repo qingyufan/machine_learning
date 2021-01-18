@@ -1,3 +1,5 @@
+#初代版本，可忽略，仅作纪念意义
+'''
 import numpy as np
 import keras
 from keras.models import Sequential
@@ -52,4 +54,4 @@ model.fit(X_train, y_train)
 
 [loss,accuracy] = model.evaluate(X_test, y_test)
 print('\nTest Loss: ', loss)
-print('\nTest Accuracy: ', accuracy)
+print('\nTest Accuracy: ', accuracy)'''
